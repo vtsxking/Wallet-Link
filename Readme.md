@@ -6,7 +6,7 @@ Wallet-Link is the spiritual successor to `Simple_Cardano_Connector` (now deprec
 ## Getting Started
 To use Wallet-Link, simply include the walletlink.js file in your application or website. For example, in a static webpage, add the following to the HTML file:
 ```javascript
-<script type="text/javascript" src="walletlink.js"></script>
+<script type="text/javascript" src="WalletLink.js"></script>
 ```
 Then, create a new instance of WalletLink and utilize the functionality as follows:
 
